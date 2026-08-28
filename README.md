@@ -105,14 +105,6 @@ Sistema interno para controlar despesas, catálogo, clientes e orçamentos.
 <img height="150" src="https://github-readme-stats-eight-flame-fr9b56nwzt.vercel.app/api?username=matheuslemes1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6B9E97&icon_color=6B9E97&text_color=8b8b8b"/>
 <img height="150" src="https://github-readme-stats-eight-flame-fr9b56nwzt.vercel.app/api/top-langs/?username=matheuslemes1&layout=compact&hide_border=true&bg_color=00000000&title_color=6B9E97&text_color=8b8b8b"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslemes1&hide_border=true&background=00000000&ring=6B9E97&fire=6B9E97&currStreakLabel=6B9E97&sideLabels=8b8b8b&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" height="150"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheuslemes1&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-
 </div>
 
 <br/>
