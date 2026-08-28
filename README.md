@@ -76,8 +76,8 @@ Sistema interno para gestão de uma papelaria personalizada: despesas, catálogo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheuslemes1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemes1&layout=compact&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats-eight-flame-fr9b56nwzt.vercel.app/api?username=matheuslemes1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-eight-flame-fr9b56nwzt.vercel.app/api/top-langs/?username=matheuslemes1&layout=compact&theme=dracula"/>
 </div>
 
 ---
