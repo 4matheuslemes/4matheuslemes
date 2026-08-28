@@ -32,7 +32,7 @@ Desenvolvedor focado no ecossistema **JavaScript/TypeScript**, graduando em **An
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,angular,go,supabase,postgres,vercel,python&theme=dark" />
+<img src="https://raw.githubusercontent.com/matheuslemes1/matheuslemes1/main/stack-marquee.svg" width="100%"/>
 
 </div>
 
